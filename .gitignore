@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+*.npy
+Dataset/
+models_multiscale/
+runs/
